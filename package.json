@@ -1,0 +1,23 @@
+{
+  "name": "create-web-framework",
+  "version": "1.0.0",
+  "description": "Creating a web framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farulivan/create-web-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farulivan/create-web-framework/issues"
+  },
+  "homepage": "https://github.com/farulivan/create-web-framework#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
+}
